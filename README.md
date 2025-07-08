@@ -39,8 +39,10 @@ To train the model:
    python train.py
    ```
 
+## Sample Image
 
+### Input 
+![alt text](image-1.png)
 
-
-
-
+### Output 
+a dog is sitting on a green grass covered field 
