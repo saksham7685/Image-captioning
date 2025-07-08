@@ -42,7 +42,8 @@ To train the model:
 ## Sample Image
 
 ### Input 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/a791f030-da05-4664-8ca1-3b99f0d4b43f)
+
 
 ### Output 
 a dog is sitting on a green grass covered field 
