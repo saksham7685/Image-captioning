@@ -42,7 +42,7 @@ To train the model:
 ## Sample Image
 
 ### Input 
-<img src="https://github.com/user-attachments/assets/a791f030-da05-4664-8ca1-3b99f0d4b43f" width="400" alt="Sample input image">
+<img src="https://github.com/user-attachments/assets/a791f030-da05-4664-8ca1-3b99f0d4b43f" width="200" alt="Sample input image">
 
 
 ### Output 
