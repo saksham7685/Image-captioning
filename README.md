@@ -2,7 +2,6 @@
 
 An implementation of an image captioning system using a CNN encoder and LSTM decoder. This project generates natural language descriptions of images using deep learning.
 
-![Model Architecture](png/model.png)
 
 ## Features
 
